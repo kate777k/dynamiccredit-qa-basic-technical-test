@@ -30,12 +30,12 @@ HOW TO GET THE TECHNICAL TEST ON YOUR LOCAL SYSTEM:
 1. Either clone using Git (strongly preferred)
      1. Install Git to your local system
      2. Go to https://github.com and sign in (create an account if you don't have one)
-     3. Go to https://github.com/dynamiccredit-qa/technical-test
+     3. Go to https://github.com/dynamiccredit-qa/basic-technical-test
      4. Click 'Fork'
      5. Click on the green-colored 'Clone or Download' button
      6. Use the provided .git URL to clone the repository to your local system with the installed Git client
 2. Or download
-     1. Go to https://github.com/dynamiccredit-qa/technical-test
+     1. Go to https://github.com/dynamiccredit-qa/basic-technical-test
      2. Click on the green-colored 'Clone or Download' button
      3. Click on the 'Download ZIP' button to download a copy of the solution
 
