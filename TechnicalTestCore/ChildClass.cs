@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-namespace TechnicalTestCore
+﻿namespace TechnicalTestCore
 {
     internal class ChildClass
     {

@@ -1,7 +1,5 @@
 ﻿namespace TechnicalTestCore
 {
-    using System;
-
     internal class HelloWorld
     {
         public static void SayHelloToTheWorld(string[] args)

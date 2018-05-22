@@ -1,7 +1,6 @@
 ﻿namespace TechnicalTestCore
 {
     using System.Collections.Generic;
-
     internal class Minimum
     {
         public static int MinimumElementIn(List<int> intlist)

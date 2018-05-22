@@ -1,6 +1,5 @@
 ﻿namespace TechnicalTestCore
 {
-    using TechnicalTestUtilities;
     internal class Summations
     {
         public static int SumOfNumbersFrom1TillNrAsInt(int maxNrAsInt)

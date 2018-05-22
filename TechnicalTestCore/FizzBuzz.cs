@@ -1,7 +1,5 @@
 ﻿namespace TechnicalTestCore
 {
-    using System;
-
     internal class FizzBuzz
     {
         public static void PrintFizzBuzzStyleIntegersFrom1Till(string[] args)
