@@ -6,6 +6,7 @@
     using FluentAssertions;
     using Xunit;
     using System.IO;
+    using System.Text;
     using TechnicalTestCore;
     using TechnicalTestUtilities;
 

@@ -2,11 +2,9 @@
 {
     // DO NOT change any code in this project
     // The point of the assignment is to make the unit tests pass by writing/modifying code in the TechnicalTestCore project
-    using System;
-    using System.Collections.Generic;
     using System.Text;
 
-    public class TestUtilities
+    internal class TestUtilities
     {
         public static string GetFizzBuzzOutput(int maxInt)
         {

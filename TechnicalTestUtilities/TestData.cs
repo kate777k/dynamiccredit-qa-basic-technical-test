@@ -4,7 +4,7 @@
     // The point of the assignment is to make the unit tests pass by writing/modifying code in the TechnicalTestCore project
     using System.Collections.Generic;
 
-    public class TestData
+    internal class TestData
     {
         public static readonly List<string> FizzBuzzPrintoutUpTo400 = new List<string>()
         {
